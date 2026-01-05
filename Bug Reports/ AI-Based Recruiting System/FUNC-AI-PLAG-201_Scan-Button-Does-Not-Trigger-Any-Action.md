@@ -14,7 +14,7 @@
 User is logged into the system
 
 ## steps to reproduce:
-1. Open website https://getbot.ai/
+1. Open website (Confidential)
 2. Open the AI plagiarism page.
 3. Enter a valid title.
 4. Enter the text/content to scan.
@@ -26,6 +26,3 @@ User should receive some message: Error message, loading indicator or successful
 
 ## Actual result:
 Nothing happens after click “scan” button.
-
-## Attachments:
-https://jam.dev/c/eb1e39ed-d25c-4a4b-bbf2-da520ad961a4
