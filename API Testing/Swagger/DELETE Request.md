@@ -23,3 +23,4 @@ Response body is empty
   
 ```json
 (empty response body)
+
