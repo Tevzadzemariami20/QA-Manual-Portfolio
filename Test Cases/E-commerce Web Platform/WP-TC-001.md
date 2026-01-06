@@ -1,6 +1,5 @@
 # WP-TC-001 - Add product to "Wishlist"
 
-#### ID: TC-Wishlist-001
 #### Test Type: Functional
 #### Priority: High
 #### Test Status: Passed 
