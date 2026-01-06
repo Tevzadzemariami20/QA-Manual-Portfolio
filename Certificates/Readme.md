@@ -3,7 +3,6 @@
 This section contains certificates from hands-on QA training programs and courses, covering manual testing fundamentals, UI/UX testing, API testing, test documentation, and practical tools used in real projects.
 
 #### 📜 Included
-## 🎓 Certifications
 
 | Certificate                                   | Institution       | Year | Skills Gained |
 |----------------------------------------------|-------------------|------|---------------|
