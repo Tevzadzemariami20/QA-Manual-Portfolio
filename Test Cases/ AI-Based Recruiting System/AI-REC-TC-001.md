@@ -1,5 +1,5 @@
 # AI-REC-TC-001 - Verify Chat Search Filters
-#### ID: TC-ChatSearch-002
+
 #### Priority: Medium  
 #### Type: Functional  
 #### Feature: Chat List & Chat Groups  
