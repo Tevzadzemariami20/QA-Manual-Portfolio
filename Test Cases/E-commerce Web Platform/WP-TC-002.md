@@ -16,7 +16,7 @@
 
 | Step No. | Action | Expected Result |
 | -------- | ------ | --------------- |
-| 1 | Open the Favorites page | Favorites page opens successfully |
+| 1 | Open the Favorites page (Confidential) | Favorites page opens successfully |
 | 2 | Identify a product in the Favorites list | Product is displayed in Favorites |
 | 3 | Click the remove / unfavorite icon for the product | Product is removed from the Favorites list |
 
