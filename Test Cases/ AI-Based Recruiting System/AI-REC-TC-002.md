@@ -16,7 +16,7 @@
 ## Test Steps
 | Step No. | Action	| Input Data	| Expected Result |
 | -------- | -----	| -----------	| --------------- |
-| 1 | Navigate to the website	| https://getbot.ai/	| Website loads successfully |
+| 1 | Navigate to the website	| (Confidential)	| Website loads successfully |
 | 2 | Click on the Login button	| N/A	| Login modal opens |
 | 3 | Verify the Terms of Service link is visible below the email input field	| N/A	| Terms of Service link is visible |
 | 4 | Click on the Terms of Service link	| N/A	| Terms of Service page opens |
