@@ -14,7 +14,7 @@
 
 | Step No. | Action | Expected Result |
 | -------- | ------ | --------------- |
-| 1 | Open Website  | Website opens successfully and user is on the home page |
+| 1 | Open Website (Confidential)  | Website opens successfully and user is on the home page |
 | 2 | Click the **English** button in the upper right corner | Website language changes to English |
 
 ## Actual Result
