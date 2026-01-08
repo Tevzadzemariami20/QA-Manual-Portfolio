@@ -13,7 +13,7 @@
 
 | Step No. | Action | Expected Result |
 | -------- | ------ | --------------- |
-| 1 | Navigate to https://getbot.ai | The website opens successfully |
+| 1 | Navigate to (Confidential)| The website opens successfully |
 | 2 | Log in to the application | User is logged in successfully |
 | 3 | Navigate to the chat dashboard | Chat dashboard is displayed |
 | 4 | Enter a prompt into the chat input field | The prompt is entered successfully |
