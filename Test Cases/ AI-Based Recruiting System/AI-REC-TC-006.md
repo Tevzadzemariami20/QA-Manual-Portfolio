@@ -15,7 +15,7 @@
 
 | Step No. | Action | Expected Result |
 | -------- | ------ | --------------- |
-| 1 | Navigate to https://getbot.ai | The website opens successfully |
+| 1 | Navigate to (Confidential) | The website opens successfully |
 | 2 | Log in to the application | User is logged in successfully |
 | 3 | Navigate to the **AI Plagiarism** page | AI Plagiarism page is displayed |
 | 4 | Enter a valid title in the title field | Title is entered successfully |
