@@ -14,7 +14,7 @@
 ## Test Steps
 | Step No. | Action | Expected Result |
 |--------- | ------ | --------------- |
-| 1        | Open the website | Website opens successfully and the user is on the main page |
+| 1        | Open the website (Confidential) | Website opens successfully and the user is on the main page |
 | 2        | Select the desired category (e.g., New Collection) |The selected category page opens successfully |
 | 3        | Select a product and click the heart-shaped (wishlist) button | Product is added to the wishlist and confirmation message appears: "Product successfully added to the wishlist" |
 | 4        | Click on Wishlist icon in the upper-right corner | Wishlist page opens and the selected product is displayed |
