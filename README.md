@@ -34,7 +34,7 @@ Georgian (Native) · English (Upper-Intermediate)
 
 ## 📂 Projects
 
-### 🔹 AI Platform – Manual QA (GetBot.ai)
+### 🔹 AI Platform – Manual QA 
 - Created structured test cases, scenarios, and checklists
 - Identified and reported functional, UI, and UX issues
 - Performed exploratory and regression testing
