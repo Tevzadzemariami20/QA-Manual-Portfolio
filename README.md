@@ -1,16 +1,16 @@
-### 👩‍💻 Mariam Tevzadze — Manual QA Tester
+## 👩‍💻 Mariam Tevzadze — Manual QA Tester
 
 📍 Tbilisi, Georgia
 📧 mariami.tevzadze.1@btu.edu.ge
 
 🔗 LinkedIn: www.linkedin.com/in/mariam-tevzadze-110752223
 
-#### 🧪 About This Portfolio
+### 🧪 About This Portfolio
 
 This repository contains practical examples of my manual QA work, demonstrating my ability to analyze requirements, design structured test documentation, identify defects, and validate backend data.
 The portfolio reflects real project simulations and hands-on practice aligned with SDLC, STLC, and Agile methodology.
 
-#### 📂 What You Will Find Inside
+### 📂 What You Will Find Inside
 
 ✔ Structured Test Cases (positive & negative scenarios)
 ✔ Test Scenarios & Checklists
@@ -21,7 +21,7 @@ The portfolio reflects real project simulations and hands-on practice aligned wi
 ✔ Test Plan & Test Summary Report samples
 
 
-#### 🛠️ Skills Demonstrated
+### 🛠️ Skills Demonstrated
 
 Testing Types:
 Functional · Regression · Exploratory · UI/UX · Backend · API · Accessibility · Cross-Browser
@@ -32,7 +32,7 @@ Jira · Postman · SQL · DevTools
 Methodologies:
 STLC · SDLC · Agile · Bug Lifecycle · Test Documentation
 
-#### 🔹 Project Highlights
+### 🔹 Project Highlights
 
 ##### AI Platform – Manual QA
 
@@ -50,7 +50,7 @@ Conducted usability and visual consistency testing
 
 Reported UI issues with clear reproduction steps
 
-#### 🎓 Education & Certification
+### 🎓 Education & Certification
 
 Bachelor of Information Technologies — Business and Technology University (2020–2024)
 QA Manual Pro — GenofIT Academy (2025)
