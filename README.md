@@ -1,53 +1,58 @@
-# 👩‍💻 Mariam Tevzadze — Manual QA Tester
+👩‍💻 Mariam Tevzadze — Manual QA Tester
 
-📍 Tbilisi, Georgia  
-📧 mariami.tevzadze.1@btu.edu.ge  
+📍 Tbilisi, Georgia
+📧 mariami.tevzadze.1@btu.edu.ge
+
 🔗 LinkedIn: www.linkedin.com/in/mariam-tevzadze-110752223
 
----
+🧪 About This Portfolio
 
-## 🧪 About Me
-- Manual QA Tester with hands-on experience testing **web and AI-based applications**
-- Strong background in **functional, regression, exploratory, UI/UX, backend, and API testing**
-- Experienced in writing **test cases, test scenarios, checklists, and detailed bug reports**
-- Skilled in validating backend data using **SQL** and testing REST APIs (**GET, POST, PUT, DELETE**)
-- Comfortable working in **Agile environments** with international QA mentors
-- Detail-oriented with strong analytical and problem-solving skills
+This repository contains practical examples of my manual QA work, demonstrating my ability to analyze requirements, design structured test documentation, identify defects, and validate backend data.
 
----
+The portfolio reflects real project simulations and hands-on practice aligned with SDLC, STLC, and Agile methodology.
 
-## 🛠️ Skills & Tools
+📂 What You Will Find Inside
 
-**Testing:**  
-Manual Testing, Functional Testing, Regression Testing, Exploratory Testing, UI/UX Testing, Backend Testing, API Testing, Accessibility Testing, Cross-Browser Testing  
+✔ Structured Test Cases (positive & negative scenarios)
+✔ Test Scenarios & Checklists
+✔ Detailed Bug Reports (with severity & priority)
+✔ API Testing examples (Postman-based)
+✔ SQL validation queries
+✔ Regression testing examples
+✔ Test Plan & Test Summary Report samples
 
-**Tools:**  
-Jira · Postman · SQL · Notion · Microsoft Edge DevTools  
+All documentation follows professional QA standards and real-world testing practices.
 
-**Methodologies:**  
-STLC · SDLC · Test Documentation · Bug Lifecycle · Agile QA  
+🛠️ Skills Demonstrated
 
-**Languages:**  
-Georgian (Native) · English (Upper-Intermediate)
+Testing Types:
+Functional · Regression · Exploratory · UI/UX · Backend · API · Accessibility · Cross-Browser
 
----
+Tools:
+Jira · Postman · SQL · DevTools
 
-## 📂 Projects
+Methodologies:
+STLC · SDLC · Agile · Bug Lifecycle · Test Documentation
 
-### 🔹 AI Platform – Manual QA 
-- Created structured test cases, scenarios, and checklists
-- Identified and reported functional, UI, and UX issues
-- Performed exploratory and regression testing
-- Provided UX and functional improvement recommendations
+🔹 Project Highlights
+AI Platform – Manual QA
 
-### 🔹 UI/UX Testing – invu.ge
-- Conducted UI/UX and usability testing
-- Verified visual consistency and layout accuracy
-- Reported UI issues with clear reproduction steps
+Designed structured test cases and exploratory checklists
 
----
+Identified functional and UI/UX issues
 
-## 🎓 Education & Certifications
-- **Bachelor of Information Technologies** — Business and Technology University (2020–2024)
-- **QA Manual Pro (Practical Program)** — GenofIT Academy, 2025
-- **Manual QA Fundamentals (Theoretical Course)** — GenofIT Academy, 2025
+Performed regression testing
+
+Provided improvement recommendations
+
+UI/UX Testing – invu.ge
+
+Conducted usability and visual consistency testing
+
+Reported UI issues with clear reproduction steps
+
+🎓 Education & Certification
+
+Bachelor of Information Technologies — Business and Technology University (2020–2024)
+QA Manual Pro — GenofIT Academy (2025)
+Manual QA Fundamentals — GenofIT Academy (2025)
