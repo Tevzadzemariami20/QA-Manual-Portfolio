@@ -34,7 +34,7 @@ STLC · SDLC · Agile · Bug Lifecycle · Test Documentation
 
 ### 🔹 Project Highlights
 
-##### AI Platform – Manual QA
+#### AI Platform – Manual QA
 
 Designed structured test cases and exploratory checklists
 
@@ -44,7 +44,7 @@ Performed regression testing
 
 Provided improvement recommendations
 
-##### UI/UX Testing – invu.ge
+#### UI/UX Testing – invu.ge
 
 Conducted usability and visual consistency testing
 
